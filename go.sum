@@ -1,5 +1,7 @@
 github.com/Sirupsen/logrus v0.10.1-0.20160601113210-f3cfb454f4c2 h1:3BYvDlSNPyoYk6lr17s9IueNAabOBur3f3uVULjbhTA=
 github.com/Sirupsen/logrus v0.10.1-0.20160601113210-f3cfb454f4c2/go.mod h1:rmk17hk6i8ZSAJkSDa7nOxamrG+SP4P0mm+DAvExv4U=
+github.com/admithub/gtm v0.0.0-20200916182116-ede180a06b88 h1:AqOLWRdm7Zq0R4XTW5EIlwf3u+YfaC+bR9uRICY50v4=
+github.com/admithub/gtm v0.0.0-20200916182116-ede180a06b88/go.mod h1:5oGkC6rbugDuW1s1Q+cYAEQQzRXuza23KhRSaEoyW08=
 github.com/heroku/rollrus v0.0.0-20160824233412-d20e35b8f913 h1:++PD3rZfQDOLZJOcsx7ZPbb+u48cIShBg6qXQzzaWSA=
 github.com/heroku/rollrus v0.0.0-20160824233412-d20e35b8f913/go.mod h1:BT+PgT529opmb6mcUY+Fg0IwVRRmwqFyavEMU17GnBg=
 github.com/jmoiron/sqlx v0.0.0-20161209024531-cac998c4f095 h1:6uwZHp3lyVH2mZxH/NLFbfBmbra2a2VDMSN2sp5NgGc=
